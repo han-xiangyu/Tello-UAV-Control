@@ -1,5 +1,5 @@
 # tello_driver 
-[![Build Status](http://build.ros.org/job/Ksrc_uX__tello_driver__ubuntu_xenial__source/badge/icon)](http://build.ros.org/job/Ksrc_uX__tello_driver__ubuntu_xenial__source/)
+<!-- [![Build Status](http://build.ros.org/job/Ksrc_uX__tello_driver__ubuntu_xenial__source/badge/icon)](http://build.ros.org/job/Ksrc_uX__tello_driver__ubuntu_xenial__source/) -->
 
 # Video
 Here is the [project demonstration](https://youtu.be/2pcbGjhW9ik).
