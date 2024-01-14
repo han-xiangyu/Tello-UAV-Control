@@ -1,4 +1,4 @@
-# tello_driver 
+# Tello-UAV-Control
 <!-- [![Build Status](http://build.ros.org/job/Ksrc_uX__tello_driver__ubuntu_xenial__source/badge/icon)](http://build.ros.org/job/Ksrc_uX__tello_driver__ubuntu_xenial__source/) -->
 
 # Video
